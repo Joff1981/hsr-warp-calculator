@@ -22,27 +22,17 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/Jose-AE/hsr-warp-calculator">
-    <img src="https://i.imgur.com/zeHJj2V.png" alt="Logo" width="80" height="80">
-  </a>
-<h3 align="center">Honkai Star Rail Warp Calculator</h3>
+  <h3 align="center">Honkai Star Rail Warp Calculator</h3>
 
   <p align="center">
     A Honkai Star Rail Warp Calculator to determine the probability of obtaining lightcones and characters based on a given number of warps.
     <br />
-    <a href="https://github.com/Jose-AE/hsr-warp-calculator"></a>
+    Forked from <a href="https://github.com/Jose-AE/hsr-warp-calculator">https://github.com/Jose-AE/hsr-warp-calculator</a>
     <br />
-    <a href="https://github.com/Jose-AE/hsr-warp-calculator/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/Jose-AE/hsr-warp-calculator/issues">Request Feature</a>
-  </p>
+   </p>
 </div>
 
 <!-- ABOUT THE PROJECT -->
-
-## About The Project
-
-<img src="https://i.imgur.com/uXaKJ33.png" />
 
 ### Built With
 
